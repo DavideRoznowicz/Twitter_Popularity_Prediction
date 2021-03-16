@@ -1,0 +1,3 @@
+[submodule "twitter/image_c/stb"]
+	path = twitter/image_c/stb
+	url = https://github.com/nothings/stb

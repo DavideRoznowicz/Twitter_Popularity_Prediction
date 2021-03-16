@@ -1,0 +1,213 @@
+Meat
+bacon
+beef
+chicken
+cooked meat
+duck
+ham
+kidneys
+lamb
+liver
+mince or minced beef
+pate
+salami
+sausages
+pork
+pie
+sausage roll
+turkey
+veal
+Fruit
+apple
+apricot
+banana
+blackberry
+blackcurrant
+blueberry
+cherry
+coconut
+fig
+gooseberry
+grape
+grapefruit
+kiwi
+lemon
+lime
+mango
+melon
+orange
+peach
+pear
+pineapple
+plum
+pomegranate
+raspberry
+redcurrant
+rhubarb
+strawberry
+Fish
+anchovy
+cod
+haddock
+herring
+kipper
+mackerel
+pilchard
+plaice
+salmon
+sardine
+smoked salmon
+sole
+trout
+tuna
+Vegetables
+artichoke
+asparagus
+aubergine
+avocado
+beansprouts
+beetroot
+broad beans
+broccoli
+Brussels sprouts
+cabbage
+carrot
+cauliflower
+celery
+chilli pepper
+courgette
+cucumber
+French beans
+garlic
+ginger
+leek
+lettuce
+mushroom
+onion
+peas
+pepper
+potato 
+pumpkin
+radish
+rocket
+runner beans
+swede
+sweet potato
+sweetcorn
+tomato
+turnip
+spinach
+spring onion
+squash
+clove of garlic
+stick of celery
+baked beans
+corned beef
+kidney beans
+soup
+tinned tomatoes
+chips
+fish fingers
+frozen peas
+frozen pizza
+ice cream
+cooking oil
+olive oil
+stock cubes
+tomato purre
+Soft drinks
+Dairy products
+butter
+cream
+cheese
+blue cheese
+cottage cheese
+goats cheese
+creme fraiche
+eggs
+free range eggs
+margarine
+milk
+full-fat milk
+semi-skimmed milk
+skimmed milk
+sour cream
+yoghurt
+baguette
+bread rolls
+brown bread
+white bread
+garlic bread
+pitta bread
+loaf
+sliced loaf
+cake
+Danish pastry
+quiche
+sponge cake
+baking powder
+plain flour
+self-raising flour
+cornflour
+sugar
+brown sugar
+icing sugar
+pastry
+yeast
+dried apricots
+prunes
+dates
+raisins
+sultanas
+cereal
+cornflakes
+honey
+jam
+marmalade
+muesli
+porridge
+toast
+noodles
+pasta
+pasta sauce
+pizza
+rice
+spaghetti
+Condiments
+sauces
+ketchup
+mayonnaise
+mustard
+pepper
+dressing
+salt
+vinaigrette
+vinegar
+Snacks
+biscuits
+chocolate
+crisps
+hummus
+nuts
+olives
+peanuts
+sweets
+walnuts
+Herbs
+basil
+chives
+coriander
+dill
+parsley
+rosemary
+sage
+thyme
+Spices
+chilli
+cinnamon
+cumin
+curry
+nutmeg
+paprika
+saffron
+organic

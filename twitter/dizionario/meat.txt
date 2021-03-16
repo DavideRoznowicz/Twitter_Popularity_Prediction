@@ -1,0 +1,19 @@
+meat
+bacon
+beef
+chicken
+cooked meat
+duck
+ham
+kidneys
+lamb
+liver
+mince or minced beef
+pate
+salami
+sausages
+pork
+pie
+sausage roll
+turkey
+veal

@@ -1,0 +1,8 @@
+cereal
+cornflakes
+honey
+jam
+marmalade
+muesli
+porridge
+toast
